@@ -110,6 +110,7 @@ body {
 .team {
   background-color: var(--second-title-color);
 }
+
 .team-title {
   font-weight: 700;
   font-size: 36px;
@@ -118,8 +119,6 @@ body {
   color: var(--main-text-color);
 }
 
-.team-members {
-}
 .team-member-name {
   font-weight: 500;
   font-size: 16px;
